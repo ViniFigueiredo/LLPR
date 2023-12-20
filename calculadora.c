@@ -45,7 +45,7 @@ float deducaoinss(float salario) {
     } else if (salario > 3856.95 || salario <= 7507.49) {
         deduzido = salario * 0.14;
     } else {
-        deduzido = 1051.0486;
+        deduzido = 1051.04;
     }
 
     return deduzido;
